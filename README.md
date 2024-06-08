@@ -37,5 +37,5 @@ To remove a recipe from the database, follow these steps:
 3. Enter the ID of the recipe you want to delete when prompted.
 4. The application will delete the recipe from the database if it exists.
 
-[w](MySQL db.JPG)
+[w](MyRecipe/MySQL db.JPG)
 
