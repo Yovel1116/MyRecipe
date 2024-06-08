@@ -6,7 +6,7 @@ This project is a recipe management application developed in Java. It allows use
 * Java Runtime Environment (JRE) version 8 or higher
   
 ## Installation
-1. [Download] MyRecipe.jar (MyRecipe.jar)
+1. [Download MyRecipe.jar](MyRecipe.jar)
 2. Ensure that Java Runtime Environment (JRE) version 8 or higher is installed on your system.
 3. Set up the MySQL database by importing the provided SQL script (database.sql) into your MySQL server. This will create the necessary database and table for the application.
 
