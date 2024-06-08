@@ -4,7 +4,8 @@ This project is a recipe management application developed in Java. It allows use
 
 ## Requirements
 * Java Runtime Environment (JRE) version 8 or higher
-* MySQL 
+* MySQL Server
+* MySQL Workbench (Optional)
 
 
 ## Usage Examples
@@ -36,5 +37,5 @@ To remove a recipe from the database, follow these steps:
 3. Enter the ID of the recipe you want to delete when prompted.
 4. The application will delete the recipe from the database if it exists.
 
-
+[w](MySQL db.png)
 
