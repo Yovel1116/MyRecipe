@@ -35,7 +35,6 @@ To remove a recipe from the database, follow these steps:
 2. Choose the "Delete recipe" option from the menu.
 3. Enter the ID of the recipe you want to delete when prompted.
 4. The application will delete the recipe from the database if it exists.
-```
 
-This section provides usage examples for each of the four main options available in the application's command-line interface.
+
 
