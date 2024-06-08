@@ -1,10 +1,6 @@
 # MyRecipe
-This project is a recipe management application developed in Java. It allows users to add, find, and delete recipes from a MySQL database using command-line interface (CLI) interaction. The application is packaged as a runnable JAR file, making it easy for users to download and use directly from the command line.
-
-
-# MyRecipe
 ## Description
-This project is a recipe management application developed in Java. It allows users to add, find, and delete recipes from a MySQL database using command-line interface (CLI) interaction.
+This project is a recipe management application developed in Java. It allows users to add, find, and delete recipes from a MySQL database using command-line interface (CLI) interaction. The application is packaged as a runnable JAR file, making it easy for users to download and use directly from the command line.
 
 ## Requirements
 * Java Runtime Environment (JRE) version 8 or higher
@@ -24,5 +20,4 @@ This project is a recipe management application developed in Java. It allows use
 ## Troubleshooting
 If you encounter any issues while running the application, ensure that you have met all the requirements mentioned above.
 
-## Contributors
-Yovel Katz 
+
