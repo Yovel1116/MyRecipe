@@ -1,4 +1,4 @@
-# MyRecipes
+# MyRecipes :plate_with_cutlery:	
 ## Description
 This project is a recipe management application developed in Java. It allows users to add, find, and delete recipes from a MySQL database using command-line interface (CLI) interaction.
 
@@ -42,6 +42,6 @@ To remove a recipe from the database, follow these steps:
 4. The application will delete the recipe from the database if it exists.
 <img src="https://github.com/Yovel1116/MyRecipes/assets/136003124/6d22b636-c6be-4e16-8f24-043b50df97a4" width="500" height="300">
 
-# MySQL DataBase 
+## MySQL DataBase 
 ![w](MySQLdb.JPG)
 
